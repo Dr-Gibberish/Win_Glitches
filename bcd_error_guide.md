@@ -1,8 +1,8 @@
 # Windows BCD Error 0xc0000225 Troubleshooting Guide
 
-## What is this error?
 <img width="640" height="853" alt="image" src="https://github.com/user-attachments/assets/eb13a925-4d81-49e9-8435-20a3d8f80e40" />
 
+## What is this error?
 **Error Code:** 0xc0000225  
 **Message:** "The Boot Configuration Data for your PC is missing or contains errors"  
 **File:** `\EFI\Microsoft\Boot\BCD`
