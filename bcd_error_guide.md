@@ -24,8 +24,8 @@ The Boot Configuration Data (BCD) is a database that tells Windows how to start 
 2. Run: `sfc /scannow`
 3. Wait for completion (usually 10-15 minutes)
 4. Look for the result message:
-   - ✅ "Windows Resource Protection did not find any integrity violations" = All good
-   - ⚠️ If violations found, the tool will attempt to fix them automatically
+    "Windows Resource Protection did not find any integrity violations" = All good
+     If violations found, the tool will attempt to fix them automatically
 
 #### Check Disk Health
 1. In the same Command Prompt, run: `chkdsk C: /f /r`
